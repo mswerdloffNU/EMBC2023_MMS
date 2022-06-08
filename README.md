@@ -1,5 +1,4 @@
-#### Poster
-<a href="SWERDLOFF-Mobile%20dry%20EEG%20evaluation%20of%20cognitive%20load%20during%20sitting%20standing%20and%20walking_v6_long_refsUpdated.pdf" target="_blank">Open PDF in browser</a>
+<a href="SWERDLOFF-Mobile%20dry%20EEG%20evaluation%20of%20cognitive%20load%20during%20sitting%20standing%20and%20walking_v6_long_refsUpdated.pdf" target="_blank">Poster PDF</a>
 
 #### References
 
