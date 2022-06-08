@@ -1,3 +1,8 @@
+#### Poster
+<a href="SWERDLOFF-Mobile%20dry%20EEG%20evaluation%20of%20cognitive%20load%20during%20sitting%20standing%20and%20walking_v6_long_refsUpdated.pdf" target="_blank">Open PDF in browser</a>
+
+[PDF Download](https://bit.ly/Swerdloff_Poster)
+
 #### References
 
 1.	Marchand, C., De Graaf, J. B. & Jarrassé, N. Measuring mental workload in assistive wearable devices: a review. J. NeuroEngineering Rehabil. 18, 1–15 (2021).
